@@ -5,7 +5,7 @@
 
 <span align="center">
 
-![](profile/temp.PNG)
+![](profile/temp2.PNG)
 
 </span>
 
