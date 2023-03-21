@@ -3,6 +3,12 @@
 
 ## Plands(Plan with Friends)🚄
 
+<span align="center">
+
+![](./temp.PNG)
+
+</span>
+
 1️⃣ 화상 채팅을 통한 여행 계획 회의 기능 <br />
 2️⃣ 동시편집을 통한 실시간 여행 계획 작성 기능 <br />
 3️⃣ 이메일을 통한 여행계획 친구 초대 기능 <br />
